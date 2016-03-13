@@ -3,15 +3,15 @@
   <channel>
     <title>Senpai Dev Labs</title>
     <description>Simple and fun</description>
-    <link>http://www.senpaidev.com/senpaidevlabs.github.io//</link>
-    <atom:link href="http://www.senpaidev.com/senpaidevlabs.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Mar 2016 22:38:56 -0300</pubDate>
-    <lastBuildDate>Sat, 12 Mar 2016 22:38:56 -0300</lastBuildDate>
+    <link>http://www.senpaidev.com/</link>
+    <atom:link href="http://www.senpaidev.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Mar 2016 22:39:39 -0300</pubDate>
+    <lastBuildDate>Sat, 12 Mar 2016 22:39:39 -0300</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Motivational for iPhone</title>
-        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/senpaidevlabs.github.io//images/motivational/preview.png&quot; alt=&quot;Motivational for iPhone&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/motivational/preview.png&quot; alt=&quot;Motivational for iPhone&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;content__item-center&quot;&gt;
 Introducing Motivational for iPhone. Motivational Daily is a the
@@ -23,11 +23,11 @@ motivated.
 
 &lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/motivational-daily/id1090692946 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/senpaidevlabs.github.io//images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/motivational-daily/id1090692946 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Mar 2016 09:32:24 -0300</pubDate>
-        <link>http://www.senpaidev.com/senpaidevlabs.github.io//motivational-daily</link>
-        <guid isPermaLink="true">http://www.senpaidev.com/senpaidevlabs.github.io//motivational-daily</guid>
+        <link>http://www.senpaidev.com/motivational-daily</link>
+        <guid isPermaLink="true">http://www.senpaidev.com/motivational-daily</guid>
         
         
         <category>iphone</category>
