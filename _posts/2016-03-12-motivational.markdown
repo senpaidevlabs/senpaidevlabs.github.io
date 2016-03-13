@@ -4,7 +4,7 @@ title:  "Motivational for iPhone"
 subtitle: "Get your day started. Motivated."
 date:   2016-03-12 12:32:24
 categories: iphone
-permalink: "motivational"
+permalink: "motivational-daily"
 device: "iphone"
 app_preview: "/images/motivational/preview-motivational.jpg"
 name: "Motivational"
