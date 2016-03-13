@@ -5,7 +5,7 @@ description: "Simple and fun"
 info: "Ninja apps, built for humans"
 message: "Ninja apps, built for humans"
 keywords: "mac,apple,iphone,ios,osx,games,apps,development,senpaidev,senpai dev labs,motivational,motivational daily"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/senpaidevlabs.github.io/" # the subpath of your site, e.g. /blog/
 url: "http://www.senpaidev.com" # the base hostname & protocol for your site
 twitter_username: senpaidevlabs
 # Build settings
