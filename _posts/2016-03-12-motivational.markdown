@@ -9,7 +9,7 @@ device: "iphone"
 app_preview: "/images/motivational-daily/preview-motivational.jpg"
 name: "Motivational"
 tagline: "Get your day started. Motivated"
-app_icon: "/images/motivational-daily/motivational.png"
+app_icon: "/images/motivational-daily/motivational-logo.png"
 ---
 
 {% img center | /images/motivational-daily/preview.png | Motivational for iPhone %}
